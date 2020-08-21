@@ -1,9 +1,4 @@
-h1{
-  padding: 1%;
-  text-align: center;
-  color: #27282d;
-  font-family: 'Josefin Sans', sans-serif;
-}
+
 
 
 .img-entete{
@@ -25,11 +20,16 @@ height: 300px;
   margin: 2%;
 }
 
+
+
 p{
+  width: 100%;
+  height: 100%;
   color: grey;
-  text-align: right;
   margin: 1%;
-  height: 100%
+  height: 270px;
+  margin-left: 50px;
+  text-align: right;
 }
 
 
@@ -44,6 +44,14 @@ p{
 
 }
 
+.c-title{
+  color: grey;
+  font-weight: bolder;
+    text-align: center;
+    padding-top: 2%;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 #particuliers{
   padding: 15%;
   text-align: center;
@@ -52,10 +60,7 @@ p{
 }
 
 #coffrets{
-  padding: 5%;
 
-}
 
-#carouselExampleCaptions{
-
+  background-color: #e8ded2;
 }
